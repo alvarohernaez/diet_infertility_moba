@@ -3,8 +3,9 @@
 - Álvaro Hernáez
 - Ida Henriette Caspersen
 - Thea Grindstad
-- Line S. Haug
+- Mari Mohn Paulsen
 - Sara Castro-Barquero
+- Marta H. Hernández
 - Maria Christine Magnus
 
 ## Syntax available
